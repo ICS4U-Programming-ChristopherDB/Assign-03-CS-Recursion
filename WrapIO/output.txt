@@ -1,0 +1,3 @@
+Must enter a single character and integer on separate line
+cdef
+tuvwxyzab
